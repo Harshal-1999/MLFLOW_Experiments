@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586344955176228237/bbdd5e29078941bf836a3d1d791deb5a/artifacts
+end_time: 1748255423413
+entry_point_name: ''
+experiment_id: '586344955176228237'
+lifecycle_stage: active
+run_id: bbdd5e29078941bf836a3d1d791deb5a
+run_name: abundant-perch-488
+run_uuid: bbdd5e29078941bf836a3d1d791deb5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748255420935
+status: 3
+tags: []
+user_id: harshalbhosale

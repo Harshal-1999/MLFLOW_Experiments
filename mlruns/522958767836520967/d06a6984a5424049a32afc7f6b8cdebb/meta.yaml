@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/522958767836520967/d06a6984a5424049a32afc7f6b8cdebb/artifacts
+end_time: 1748182227873
+entry_point_name: ''
+experiment_id: '522958767836520967'
+lifecycle_stage: active
+run_id: d06a6984a5424049a32afc7f6b8cdebb
+run_name: carefree-skunk-320
+run_uuid: d06a6984a5424049a32afc7f6b8cdebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748182225527
+status: 3
+tags: []
+user_id: harshalbhosale

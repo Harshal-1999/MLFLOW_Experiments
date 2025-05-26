@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586344955176228237/d9250b4ca468417aaba68d209f08e29f/artifacts
+end_time: 1748255432650
+entry_point_name: ''
+experiment_id: '586344955176228237'
+lifecycle_stage: active
+run_id: d9250b4ca468417aaba68d209f08e29f
+run_name: treasured-hound-70
+run_uuid: d9250b4ca468417aaba68d209f08e29f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748255430108
+status: 3
+tags: []
+user_id: harshalbhosale
